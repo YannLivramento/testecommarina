@@ -1,1 +1,3 @@
 Complete com seu nome:Malinam
+Qual a sua cor favorita? 12
+Digite um número: Azul
