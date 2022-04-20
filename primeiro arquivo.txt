@@ -1,1 +1,3 @@
-Complete com seu nome:
+Complete com seu nome:Yann
+Qual a sua cor favorita? Azul
+Digite um número: 12
